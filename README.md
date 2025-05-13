@@ -1,5 +1,5 @@
 # My-Tales
-# My Tales by Abdulhadi Adil Abbas
+# My Tales by Abdulhadi Adil Abbas 13.5.2025
 
 This repository contains original short stories written by **Abdulhadi Adil Abbas**, an emerging writer from Iraq. The stories are primarily written in Arabic and translated carefully into English, with a focus on literary depth, gothic atmosphere, and emotional resonance.
 
